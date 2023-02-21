@@ -3,7 +3,7 @@ public class Jenkins {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello this is Ayush Mehta here");
+		System.out.println("Hello this is Ayush Mehta");
 		
 	}
 
